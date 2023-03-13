@@ -1,0 +1,49 @@
+.parent{
+    height: 700px;
+    width: 700px;
+    border: 6px solid blueviolet;
+    margin-left: 25%;
+
+}
+.firstHeading{
+    margin-left: 30px;
+}
+
+.firstInside{
+    height: 150px;
+    width: 630px;
+    border: 2px solid forestgreen;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding-top: 15px;
+}
+.labelfirst{
+    margin-left: 25px;
+    
+}
+.secondlabel{
+    margin-left: 25px;
+}
+.secondlabelinput{
+    margin-left: 38px;
+}
+.selectclass{
+    margin-left: 38px;
+}
+.selectclass2{
+    margin-left: 25px;
+}
+.newtab{
+    margin-left: 25px;
+}
+.newtabking{
+    margin-left: 38px;
+}
+.newtabdouble{
+    margin-left: 50px;
+}
+
+.submit{
+    margin-left: 50px;
+   
+}
